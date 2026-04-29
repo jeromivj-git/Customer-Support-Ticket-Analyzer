@@ -49,8 +49,6 @@ This system helps in tracking issues, cleaning data, categorizing problems, and 
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 Customer-Support-Ticket-Analyzer/
 │
 ├── main.py              # Main Python program (menu-driven ticket system)
