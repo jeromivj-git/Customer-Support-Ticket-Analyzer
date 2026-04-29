@@ -49,11 +49,14 @@ This system helps in tracking issues, cleaning data, categorizing problems, and 
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
 Customer-Support-Ticket-Analyzer/
 │
-├── tickets.csv # Main data file
-├── filtered.csv # Exported filtered data
-├── main.py # Main program file
-└── README.md # Project documentation
+├── main.py              # Main Python program (menu-driven ticket system)
+├── tickets.csv          # Primary dataset (all tickets)
+├── filtered.csv         # Exported filtered results
+├── README.md            # Project documentation
+
 
 
