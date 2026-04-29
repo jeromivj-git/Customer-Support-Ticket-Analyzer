@@ -48,3 +48,10 @@ This system helps in tracking issues, cleaning data, categorizing problems, and 
 ---
 
 ## 📁 Project Structure
+
+Customer-Support-Ticket-Analyzer/
+│
+├── tickets.csv # Main data file
+├── filtered.csv # Exported filtered data
+├── main.py # Main program file
+└── README.md # Project documentation
